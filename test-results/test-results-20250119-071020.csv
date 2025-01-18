@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1737232821002,126,HTTP Request : Access Jmeter home page,200,OK,Thread Group 1 1-1,text,true,,21544,120,1,1,https://jmeter.apache.org/,121,0,97
+1737232821128,28,HTTP Request : Access Release Notes page,200,OK,Thread Group 1 1-1,text,true,,31515,132,1,1,https://jmeter.apache.org/changes.html,22,0,0
+1737232821157,1159,HTTP Request : Access Best practices,200,OK,Thread Group 1 1-1,text,true,,41522,150,1,1,https://jmeter.apache.org/usermanual/best-practices.html,1158,0,0
