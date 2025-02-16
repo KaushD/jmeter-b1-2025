@@ -1,5 +1,0 @@
-timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
-1737181197352,712,HTTP Request : Facebook home,200,OK,Thread Group 1 1-1,text,true,,190899,122,1,1,https://www.facebook.com/%20,557,0,149
-1737181198067,664,HTTP Request : Facebook Friends,200,OK,Thread Group 1 1-1,text,true,,70816,300,1,1,https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Ffriends,262,0,0
-1737181198067,262,HTTP Request : Facebook Friends-0,302,Found,Thread Group 1 1-1,text,true,,3806,126,1,1,https://www.facebook.com/friends,262,0,0
-1737181198329,402,HTTP Request : Facebook Friends-1,200,OK,Thread Group 1 1-1,text,true,,67010,174,1,1,https://www.facebook.com/login.php?next=https%3A%2F%2Fwww.facebook.com%2Ffriends,398,0,0
